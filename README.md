@@ -1,7 +1,7 @@
 # Hi there, I'm Sushma 👋  
-A MCA student 🎓, Full-Stack Web Developer & AI enthusiast 🤖 from Bengaluru, India.  
+A MCA student 🎓, Python Full-Stack Web Developer & AI enthusiast 🤖 from Bengaluru, India.  
 
-💻 Passionate about building AI-driven solutions and full-stack web applications.  
+💻 Passionate about buildin full-stack web applications and  AI-driven solutions  
 🎯 Currently enhancing skills in React.js, Node.js, Next.js, Django, and AI integrations.  
 
 ---
