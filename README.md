@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sushma 👋  
+A MCA student 🎓, Full-Stack Web Developer & AI enthusiast 🤖 from Bengaluru, India.  
 
-<!--
-**sushmag0wda/sushmag0wda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building AI-driven solutions and full-stack web applications.  
+🎯 Currently enhancing skills in React.js, Node.js, Next.js, Django, and AI integrations.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages:** Python, JavaScript  
+
+**Web Technologies & Frameworks:** HTML, CSS, React.js, Node.js, Django  
+
+**Database:** SQL, MongoDB (Basics)  
+
+**Tools & Platforms:** Git, GitHub, Canva (Basics), Figma (Basics)  
+
+**Core Concepts:** Object-Oriented Programming (OOP)  
+
+---
+
+## 💼 Internship
+
+**Python Full Stack Development Intern** – Pentagon Space (July 2025 – Present)  
+- Gaining hands-on experience in full-stack development using HTML, CSS, JavaScript, React.js, Django, and Flask.  
+
+---
+
+## 🤝🏻 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sushgowda808@gmail.com)  
