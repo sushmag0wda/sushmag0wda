@@ -1,22 +1,22 @@
 # Hi there, I'm Sushma 👋  
-A MCA student 🎓, Python Full-Stack Web Developer & AI enthusiast 🤖 from Bengaluru, India.  
+A MCA Graduate 🎓, Python Full-Stack Web Developer 🤖 from Bengaluru, India.  
 
 💻 Passionate about buildin full-stack web applications and  AI-driven solutions  
-🎯 Currently enhancing skills in React.js, Node.js, Next.js, Django, and AI integrations.  
+🎯 Currently enhancing skills in React.js, Django, and AI integrations.  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, JavaScript  
+**Languages:** Python, Java(basics)  
 
-**Web Technologies & Frameworks:** HTML, CSS, React.js, Node.js, Django  
+**Web Technologies & Frameworks:** HTML, CSS, JavaScript, Django  
 
-**Database:** SQL, MongoDB (Basics)  
+**Database:** MySQL
 
 **Tools & Platforms:** Git, GitHub, Canva (Basics), Figma (Basics)  
 
-**Core Concepts:** Object-Oriented Programming (OOP)  
+**Core Concepts:** Object-Oriented Programming (OOP) ,SDLC
 
 ---
 
