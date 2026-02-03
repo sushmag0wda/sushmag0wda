@@ -23,7 +23,7 @@ A MCA Graduate 🎓, Python Full-Stack Web Developer 🤖 from Bengaluru, India.
 ## 💼 Internship
 
 **Python Full Stack Development Intern** – Pentagon Space (July 2025 – Present)  
-- Gaining hands-on experience in full-stack development using HTML, CSS, JavaScript, React.js, Django.  
+- Gaining hands-on experience in full-stack development using HTML, CSS, JavaScript, React.js,Python, Django and MySQL.  
 
 ---
 
